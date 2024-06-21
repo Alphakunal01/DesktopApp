@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.CreateSubmissionForm.resources
+C:\Users\ASUS\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Form1.resources
+C:\Users\ASUS\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.ViewSubmissionsForm.resources
+C:\Users\ASUS\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Resources.resources
+C:\Users\ASUS\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\ASUS\source\repos\DesktopApp\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\ASUS\source\repos\DesktopApp\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\ASUS\source\repos\DesktopApp\DesktopApp\bin\Debug\DesktopApp.xml
+C:\Users\ASUS\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\ASUS\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.xml
+C:\Users\ASUS\source\repos\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
